@@ -2,3 +2,4 @@
 Changed Syntax for hero div- search engine optimzation- so that header properly navigates to it. 
 Corrected the website to reflect personal branding.
 Added the <header> while removing a <div>.
+Added a <section> tag, removing an additional <id>. Also added alt to the image. Moved image from the CSS to html. 
