@@ -8,3 +8,5 @@ Improved margin around photos.
 Consolidated text format within <content>
 Mirrored <content> format for benefits.
 Updated all images to include alt tags.
+
+![Alt text](./assets/Horiseon-Main Page.pdf "Horiseon- Main Page")
