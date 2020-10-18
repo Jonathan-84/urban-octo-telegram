@@ -9,4 +9,4 @@ Consolidated text format within <content>
 Mirrored <content> format for benefits.
 Updated all images to include alt tags.
 
-![alt text](https://github.com/github/{repository}/blob/assets/cat.png)
+![alt text](https://github.com/Jonathan-84/urban-octo-telegram/blob/master/assets/shot-20201018-1908-b0hmxi.jpeg)
