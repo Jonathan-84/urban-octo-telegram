@@ -8,3 +8,5 @@ Improved margin around photos.
 Consolidated text format within <content>
 Mirrored <content> format for benefits.
 Updated all images to include alt tags.
+
+![alt text](https://github.com/github/{repository}/blob/assets/cat.png)
