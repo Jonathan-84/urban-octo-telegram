@@ -7,3 +7,4 @@ Cleaned up html structure- adding article- and putting the align descriptors in 
 Improved margin around photos.
 Consolidated text format within <content>
 Mirrored <content> format for benefits.
+Updated all images to include alt tags.
